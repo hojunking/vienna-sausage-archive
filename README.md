@@ -1,2 +1,3 @@
 # vienna_sausages_archive
-비엔나 소시지마냥 끝도 없는 지식 저장소
+#### Hojun's Tech Blog
+비엔나 소시지마냥 줄줄이 지식 저장소
